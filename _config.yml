@@ -4,10 +4,9 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 title : Curtis Pond
-production_url : http://curtpond.com
+production_url : http://www.curtpond.com
 description: "A little bit of everything"
 disqus_shortname: false
-CNAME: curtpond.com
 analytics: false
 gauges: false
 author :
