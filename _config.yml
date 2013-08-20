@@ -3,14 +3,16 @@ pygments: true
 permalink: /posts/:title
 rdiscount:
   extensions: [smart]
-title : Carlos Becker
-production_url : http://carlosbecker.com
-description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
-disqus_shortname: caarlos0blog
-analytics: UA-32899481-1
-gauges: 50f2b533613f5d7c8000000c
+title : Curtis Pond
+production_url : http://curtpond.com
+description: "A little bit of everything"
+disqus_shortname: false
+CNAME: curtpond.com
+analytics: false
+gauges: false
 author :
-  name : Carlos Alexandro Becker
-  github : caarlos0
-  twitter : caarlos0
-  email: caarlos0@gmail.com
+  name : Curtis Pond
+  github : curtpond
+  twitter : curtpond
+  linkedin: http://www.linkedin.com/in/curtispond
+  email: curtis.pond@gmail.com
