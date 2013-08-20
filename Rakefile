@@ -3,7 +3,6 @@ require 'rake'
 require 'yaml'
 require 'time'
 require 'open-uri'
-require 'RMagick'
 require "digest/md5"
 
 SOURCE = "."

@@ -6,9 +6,9 @@ rdiscount:
 title : Curtis Pond
 production_url : http://www.curtpond.com
 description: "A little bit of everything"
-disqus_shortname: false
-analytics: false
-gauges: false
+disqus_shortname:
+analytics: 
+gauges: 
 author :
   name : Curtis Pond
   github : curtpond
